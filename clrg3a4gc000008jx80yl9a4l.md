@@ -5,6 +5,7 @@ seoDescription: "适合入职0-3年的职场新手，从选适合的公司、如
 datePublished: Tue Jan 16 2024 08:25:39 GMT+0000 (Coordinated Universal Time)
 cuid: clrg3a4gc000008jx80yl9a4l
 slug: soft-skills
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705394138263/e2f67664-f582-47c8-af97-926d282c11f5.jpeg
 tags: books, soft-skills, coder
 
 ---
